@@ -99,12 +99,8 @@ header nav ul li a:hover {
 
 
 
-
-
-
-
 .texto {
-	padding:100px 0;
+	padding:10px 0;
 	text-align: center;
 	color:#fff;
 	position: relative;
@@ -149,10 +145,11 @@ header nav ul li a:hover {
 }
  
 .imgcaja {
-    width: 37%;
+    width: 17%;
     height: auto;
     overflow: hidden;
     margin: auto;
     display: block ;
+    padding: 10px;
 }
 
